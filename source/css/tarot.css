@@ -1,0 +1,50 @@
+body {
+	background-color: #D2A4D9;
+}
+
+.title {
+	font-family: "Comic Sans MS";
+	font-size: 100px;
+	font-weight: bold;
+	letter-spacing: 20px;
+}
+
+.login {
+	font-family: "Comic Sans MS";
+	font-weight: bold;
+	position: relative;
+	top: 10;
+	right: 10;
+}	
+
+.myButtons {
+	width: 960px;
+	
+}
+
+body div form button {
+	font-size: 30px;
+	font-weight: bold;
+	font-family: "Comic Sans MS";
+	background-color: white;
+	width: 240px;
+	height: 50px;
+	margin: 0 auto;
+	float: left;
+}
+
+img.floatLeft {
+	float: left;
+	margin-top: 50px;
+	margin-left: 170px;
+}
+
+.about {
+	font-family: "Comic Sans MS";
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 86px;
+	margin-right: 300px;
+	margin-left: 700px;
+	letter-spacing: .5px;
+}
